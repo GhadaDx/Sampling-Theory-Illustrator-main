@@ -9,4 +9,4 @@ an illustrator for the signal recovery that shows the importance and validation 
 
 - change the sampling rate via a slider.
 - ## Demos
-https://github.com/GhadaDx/Sampling-Theory-Illustrator-main/blob/main/sampling.mp4
+https://user-images.githubusercontent.com/42315079/157133540-70b0fe25-5d77-4dc9-9272-421bc941c098.mp4
